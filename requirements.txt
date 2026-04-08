@@ -1,0 +1,6 @@
+# Use 2.10+; on Python 3.14, 2.11+ typically has wheels (2.10.* may build from source).
+pydantic>=2.10,<3
+httpx==0.28.*
+fastapi==0.115.*
+uvicorn==0.34.*
+python-dotenv==1.0.*
